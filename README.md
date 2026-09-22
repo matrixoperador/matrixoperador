@@ -1,16 +1,42 @@
-## Hi there 👋
+# Pablo Porcel
 
-<!--
-**matrixoperador/matrixoperador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Independent Developer · Android · Kotlin · Python · Linux · Local AI**
 
-Here are some ideas to get you started:
+I build functional software projects focused on Android applications, Linux automation, data analysis and local AI integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My approach is based on building working prototypes, testing them in real environments, debugging problems through instrumentation and improving each system incrementally.
+
+## Selected Projects
+
+### LUNA Pocket
+
+Android voice assistant built with **Kotlin and Jetpack Compose**.
+
+Voice interaction, dynamic application launching, media and volume control, notification reading and Android system integration.
+
+### LUNA Gym
+
+Android application for managing **strength and cardio training**.
+
+Includes exercises, routines, workout sessions, history, progress analysis and voice interaction.
+
+### AI / OS Bridge
+
+Experimental **Python + Linux + Local AI** prototype.
+
+Natural-language requests are transformed into proposed operating-system actions, with human confirmation required before execution.
+
+### Sports Model
+
+Experimental **Python probabilistic football analysis** project.
+
+Processes historical data, generates probabilities and evaluates model behaviour through backtesting and probabilistic metrics.
+
+## Portfolio
+
+🌐 **https://controlservicesapp.com/portfolio/**
+
+---
+
+*The projects shown in my portfolio are private developments. Source code, datasets, models, parameters and internal implementation details are not publicly distributed.*
+
